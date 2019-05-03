@@ -1,0 +1,24 @@
+{
+  "name": "basix-components",
+  "version": "1.0.0",
+  "description": "basic components for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iheidari/basix-components.git"
+  },
+  "keywords": [
+    "React",
+    "Basic",
+    "Component"
+  ],
+  "author": "iheidari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iheidari/basix-components/issues"
+  },
+  "homepage": "https://github.com/iheidari/basix-components#readme"
+}
