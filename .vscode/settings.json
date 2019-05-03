@@ -3,5 +3,6 @@
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true,
   "files.eol": "\r\n",
-  "prettier.endOfLine": "crlf"
+  "prettier.endOfLine": "crlf",
+  "editor.formatOnSave": true
 }
