@@ -4,7 +4,7 @@
   "description": "basic components for react",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/iheidari/basix-components/issues"
   },
-  "homepage": "https://github.com/iheidari/basix-components#readme"
+  "homepage": "https://github.com/iheidari/basix-components#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.3",
+    "jest": "^24.8.0"
+  }
 }
